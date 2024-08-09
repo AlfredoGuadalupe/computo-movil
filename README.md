@@ -1,2 +1,2 @@
 # computo-movil
-Repositorio para la matera de cómputo móvil
+Repositorio para la materia de cómputo móvil
